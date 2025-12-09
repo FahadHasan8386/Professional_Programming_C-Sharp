@@ -10,7 +10,8 @@ namespace OOP
     {
         public string Model;
         public int Year;
-        public Brand CarBrand;
+        public Brand CarBrand;//Association
+        public PriceCar PriceCar;//Association
         
         public void ShowCarInfo()
         {
@@ -21,7 +22,8 @@ namespace OOP
             Console.WriteLine("---- Brand Info ----");
             CarBrand.ShowBrandInfo();
 
-            
+            Console.WriteLine("---- Total Price ----");
+            PriceCar.ShowTotalPrice();
            
         }
     }
