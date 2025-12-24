@@ -29,6 +29,5 @@ public class Progam
         {
             printer1.PrintDetails(item);
         }
-
     }
 }
