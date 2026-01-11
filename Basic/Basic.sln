@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new_Method_Hiding", "..\new
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "async_await_delay", "..\async_await_delay\async_await_delay.csproj", "{BE3776CD-A3A2-4528-96A1-0E0320C917A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_IQuaryable", "..\List_IQuaryable\List_IQuaryable.csproj", "{64F619BB-0BED-478C-A1A9-73CFAAE592AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{BE3776CD-A3A2-4528-96A1-0E0320C917A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE3776CD-A3A2-4528-96A1-0E0320C917A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE3776CD-A3A2-4528-96A1-0E0320C917A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F619BB-0BED-478C-A1A9-73CFAAE592AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F619BB-0BED-478C-A1A9-73CFAAE592AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F619BB-0BED-478C-A1A9-73CFAAE592AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F619BB-0BED-478C-A1A9-73CFAAE592AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
