@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11505.172 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic", "Basic.csproj", "{FD9254B5-E66E-4C79-8122-20DFD23E43DF}"
 EndProject
@@ -58,6 +58,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_IQuaryable", "..\List_IQuaryable\List_IQuaryable.csproj", "{64F619BB-0BED-478C-A1A9-73CFAAE592AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_App_Info", "..\Student_App_Info\Student_App_Info.csproj", "{BCB56EF2-6284-4727-8EE3-20AA7792321E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryManagementSystem", "..\LibraryManagementSystem\LibraryManagementSystem.csproj", "{41D8BCA4-A8E5-4043-92EE-F92A27BE7F46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{BCB56EF2-6284-4727-8EE3-20AA7792321E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB56EF2-6284-4727-8EE3-20AA7792321E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCB56EF2-6284-4727-8EE3-20AA7792321E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D8BCA4-A8E5-4043-92EE-F92A27BE7F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D8BCA4-A8E5-4043-92EE-F92A27BE7F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D8BCA4-A8E5-4043-92EE-F92A27BE7F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D8BCA4-A8E5-4043-92EE-F92A27BE7F46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
